@@ -8,18 +8,18 @@
 
 ## Theme
 
-- The theme chosen was the register of death rate.
+- The theme chosen was the register of death rate. 💀📈
 
 ## Application
 
-- The Application has the following options and comands:
+- The Application has the following options and commands:
 
-    - 0 - Exit;
-	- 1 - Register;
-    - 2 - Delete;
-    - 3 - Consult the mortality index;
-    - 4 - Reset indexes;
-    - 5 - Open a website with the complete table of death rate from IBGE in 2015.
+    - **0** - Exit;
+	- **1** - Register;
+    - **2** - Delete;
+    - **3** - Consult the mortality index;
+    - **4** - Reset indexes;
+    - **5** - Open a website with the complete table of death rate from IBGE in 2015.
 
 ## Authors
 

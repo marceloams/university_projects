@@ -8,18 +8,18 @@
 
 ## Theme
 
-- The theme chosen was a slot machine to use threads.
+- The theme chosen was a slot machine to use threads. 🎰
 
 ## Application
 
 - The application has the following characteristics:
 
-	- Enter with a money amount: put an amount bigger than 5 and divisible by 5;
-	- Run: press the handle button to begin, pay 5 per attempt;
-	- 0 equal: loose 5;
-    - 2 equals: earn 5;
-    - 3 equals: earn 10;
-    - no money: a pane appear to put more money.
+	- **Enter with a money amount**: put an amount bigger than 5 and divisible by 5;
+	- **Run**: press the handle button to begin, pay 5 per attempt;
+	- **0 equal**: loose 5;
+    - **2 equals**: earn 5;
+    - **3 equals**: earn 10;
+    - **no money**: a pane appear to put more money.
 
 ## Slot_Machine
 

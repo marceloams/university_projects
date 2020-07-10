@@ -8,20 +8,20 @@
 
 ## Theme
 
-- The theme chosen was the registration of a motorcycle club members.
+- The theme chosen was the registration of a motorcycle club members. 🏍️
 
 ## Application
 
-- The Application has the following options and comands:
+- The Application has the following options and commands:
 
-    - 0 - Exit;
-	- 1 - Register;
-    - 2 - Search;
-    - 3 - List;
-    - 4 - Edit;
-    - 5 - Delete;
-    - 6 - Open a website with the National Code of Ethics for Motorcycle Clubs;
-    - 7 - Open notepad with the data of registered members.
+    - **0** - Exit;
+	- **1** - Register;
+    - **2** - Search;
+    - **3** - List;
+    - **4** - Edit;
+    - **5** - Delete;
+    - **6** - Open a website with the National Code of Ethics for Motorcycle Clubs;
+    - **7** - Open notepad with the data of registered members.
 
 ## Authors
 

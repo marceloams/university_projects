@@ -1,6 +1,6 @@
 # Projects that I have done at University 🎓
 
-- The language of the projects are C, C++ and Java;
+- The languages of the projects are C, C++ and Java;
 
 - The language of database is SQL;
 

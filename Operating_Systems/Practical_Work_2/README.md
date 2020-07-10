@@ -8,16 +8,16 @@
 
 ## Theme
 
-- The theme chosen was a process scheduling simulator.
+- The theme chosen was a process scheduling simulator. 📇
 
 ## Application
 
 - The application has the following characteristics:
 
-	- Firt pane: put the amount of process in the queue;
-	- Second pane: put the processes info (burst size and time of arrive);
-	- Options: choose FIFO algorithm or RR algorithm;
-    - Output: Shows on the netbeans output informations about the scheddulling (with average waiting and turnaround time).
+	- **First pane**: put the amount of processes in the queue;
+	- **Second pane**: put the processes info (burst size and arrival time);
+	- **Options**: choose FIFO algorithm or RR algorithm;
+    - **Output**: Shows on the netbeans output informations about the scheddulling (with average waiting and turnaround time).
 
 ## SchedulingSimulator
 

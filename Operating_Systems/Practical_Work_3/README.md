@@ -8,18 +8,18 @@
 
 ## Theme
 
-- The theme chosen was a whatsapp images sending to control a critical section.
+- The theme chosen was a whatsapp images sending to control a critical section. 🖼️📱
 
 ## Application
 
 - The application has the following characteristics:
 
-	- Gallery: put the images in the frames (images are already set);
-	- Sender: images order in the sender's phone;
-	- Receiver: images order in the receiver's phone ;
-    - Send: can choose to send with a critical section controlled or not.
-    - reset: clean all the inputs and outputs;
-    - log output: shows more detailed info (thread initialization, sender and receiver time of each image).
+	- **Gallery**: put the images in the frames (images are already set);
+	- **Sender**: images order in the sender's phone;
+	- **Receiver**: images order in the receiver's phone ;
+    - **Send**: can choose to send with a critical section controlled or not.
+    - **Reset**: clean all the inputs and outputs;
+    - **Log output**: shows more detailed info (thread initialization, sender and receiver time of each image).
 
 ## WhatsAppImages
 

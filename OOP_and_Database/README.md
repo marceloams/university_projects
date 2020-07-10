@@ -10,19 +10,19 @@
 
 ## Theme
 
-- The theme chosen was a social media to connect clients and freelancers.
+- The theme chosen was a social media to connect clients and freelancers. 👨🏽‍💻
 
 ## Application
 
 - The application has the following pages:
 
-	- Login: where you need an username and password;
-	- Register: where an user can be registered;
-	- Profile: where you can see and edit your profile informations;
-	- Projects: where you can see your projects as client or as freelancer; 
-	- Create: where you can create a project (client);
-	- Search: where you can search for projects by category (freelancer);
-	- Exit: to end the session and leave.
+	- **Login**: where you need an username and password;
+	- **Register**: where an user can be registered;
+	- **Profile**: where you can see and edit your profile informations;
+	- **Projects**: where you can see your projects as client or as freelancer; 
+	- **Create**: where you can create a project (client);
+	- **Search**: where you can search for projects by category (freelancer);
+	- **Exit**: to end the session and leave.
 
 ## Database
 
@@ -38,7 +38,7 @@
 
 ## Autoboss_exe
 
-- Has the .jar file and the libraries to run directly without netbeans.
+- Has the .jar file and the sources to run directly without netbeans.
 
 ## Authors
 
