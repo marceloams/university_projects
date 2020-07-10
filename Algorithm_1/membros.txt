@@ -1,0 +1,24 @@
+#### MEMBROS CADASTRADOS ####
+
+Nome: member 1
+Idade: 21
+Sexo: Masculino
+CPF: 12312414
+RG: 13123123
+Sangue: A-
+Cidade natal: city 1
+Endereço: address 1
+Placa da moto: asd-1234
+Cargo: President
+
+Nome: member 2
+Idade: 49
+Sexo: Feminino
+CPF: 1234562431
+RG: 12314132
+Sangue: AB+
+Cidade natal: city 2
+Endereço: address 2
+Placa da moto: 123-1234
+Cargo: Former President
+
